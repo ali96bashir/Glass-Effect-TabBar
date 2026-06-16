@@ -1,17 +1,45 @@
-# navbar
+# Glass Effect TabBar
 
-A new Flutter project.
+A modern Flutter TabBar UI with smooth glassmorphism effects, animated transitions, and a clean futuristic design.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="assets/demo.gif" width="320"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+<p align="center">
+  <img src="assets/light_theme.png" width="280"/>
+  <img src="assets/dark_theme.png" width="280"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
+
+## Features
+
+* Modern glassmorphism design
+* Smooth animated tab transitions
+* Blur glass effect
+* Clean dark UI
+* Fully responsive layout
+* Beautiful micro-interactions
+* Pure Flutter implementation
+
+## Tech Stack
+
+* Flutter
+* Dart
+* AnimationController
+* Custom UI Animations
+
+## Run Project
+
+```bash
+flutter pub get
+flutter run
+```
+
+## Author
+
+Created by Ali Bashir.
