@@ -5,7 +5,7 @@ A modern Flutter TabBar UI with smooth glassmorphism effects, animated transitio
 ## Preview
 
 <p align="center">
-  <img src="assets/demo.gif" width="320"/>
+  <img src="assets/demo.gif" width="260 hight="480"/>
 </p>
 
 <br>
